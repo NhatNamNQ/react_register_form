@@ -93,3 +93,15 @@ form {
   flex-grow: 1;
   padding-bottom: 1rem;
 }
+
+a, a:visited {
+  color: #fff;
+}
+
+.line {
+  display: inline-block;
+}
+
+.instructions > svg {
+  margin-right: 0.25rem;
+}
